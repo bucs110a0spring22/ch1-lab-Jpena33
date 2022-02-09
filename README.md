@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols (including the < >)._
 
 ## SUMMARY OF LATE POLICY FOR THE COURSE:
- < Provide a  description of the courses late policy >
+ Students are given 5 grace days for labs. Grace days cannot be used for exams or the final project. After they are used, 10% of the lab percentage will be deducted after every 24 hour period the assignment is late. Late or previous labs may be submitted/resubmitted any time for up to 50% credit; you may only submit labs up to the last day of classes this semester. Notify the instructor to have a submission regraded.    
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ none
 
 ## REFERENCES:
- < List any outside resources used >
+ none
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ I hope we have a great and smooth semester!
